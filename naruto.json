@@ -110,6 +110,66 @@
       "end_date": "2010-07-31T00:00:00+00:00",
       "members": 223926,
       "rated": "PG-13"
+    },
+    {
+      "mal_id": 13667,
+      "url": "https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg?s=12e72e32bba541ac795227b2278f8c72",
+      "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+      "airing": false,
+      "synopsis": "Returning home to Konohagakure, the young ninja celebrate defeating a group of supposed Akatsuki members. Naruto Uzumaki and Sakura Haruno, however, feel differently. Naruto is jealous of his comrades...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.67,
+      "start_date": "2012-07-28T00:00:00+00:00",
+      "end_date": "2012-07-28T00:00:00+00:00",
+      "members": 301986,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 2472,
+      "url": "https://myanimelist.net/anime/2472/Naruto__Shippuuden_Movie_1",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/79705.jpg?s=80162f3e16a4b76638f535bf23ac324c",
+      "title": "Naruto: Shippuuden Movie 1",
+      "airing": false,
+      "synopsis": "A group of ninja is planning to revive a powerful demon, and once its spirit is reunited with its body, the world will be destroyed. The only way to prevent this from happening is for Shion, a shrine...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.29,
+      "start_date": "2007-08-04T00:00:00+00:00",
+      "end_date": "2007-08-04T00:00:00+00:00",
+      "members": 266645,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 442,
+      "url": "https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/76015.jpg?s=cf22c3c0297cf6dca2fb1c97ced2cd41",
+      "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+      "airing": false,
+      "synopsis": "Naruto Uzumaki and his squadmates, Sasuke Uchiha and Sakura Haruno, are sent on a mission to escort a movie crew on its way to film in the Land of Snow. They soon find out that they are accompanying a...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.11,
+      "start_date": "2004-08-21T00:00:00+00:00",
+      "end_date": "2004-08-21T00:00:00+00:00",
+      "members": 265972,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 12979,
+      "url": "https://myanimelist.net/anime/12979/Naruto_SD__Rock_Lee_no_Seishun_Full-Power_Ninden",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/36475.jpg?s=afbabba381a6eebe252dc3c6ed09067a",
+      "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+      "airing": false,
+      "synopsis": "The competitive shinobi world has proven to be challenging for Rock Lee, who lacks the typically required abilities. To compensate for this handicap, the young ninja tenaciously endures severe trainin...",
+      "type": "TV",
+      "episodes": 51,
+      "score": 7.16,
+      "start_date": "2012-04-03T00:00:00+00:00",
+      "end_date": "2013-03-26T00:00:00+00:00",
+      "members": 86435,
+      "rated": "PG-13"
     }
     ]
     }
